@@ -41,13 +41,13 @@ The application integrates key Android animation and UI frameworks:
   </tr>
   <tr>
     <td align="center">
-      <img src="Screenshots/SS1.png" alt="Splash Screen" width="230"/>
+      <img src="SS1.png" alt="Splash Screen" width="230"/>
     </td>
     <td align="center">
-      <img src="Screenshots/SS2.png" alt="Alarm Frame Animation" width="230"/>
+      <img src="SS2.png" alt="Alarm Frame Animation" width="230"/>
     </td>
     <td align="center">
-      <img src="Screenshots/SS3.png" alt="Dashboard Card &amp; Controls" width="230"/>
+      <img src="SS3.png" alt="Dashboard Card &amp; Controls" width="230"/>
     </td>
   </tr>
   <tr>
