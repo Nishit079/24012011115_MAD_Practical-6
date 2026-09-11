@@ -52,7 +52,7 @@ The application integrates key Android animation and UI frameworks:
   </tr>
   <tr>
     <td align="center">UVPCE logo frame animation with 360° twin rotation</td>
-    <td align="center">Continuous 10-frame ringing alarm clock animation</td>
+    <td align="center"> twin rotation  clock animation</td>
     <td align="center">Material 3 card with animated heart &amp; action buttons</td>
   </tr>
 </table>
