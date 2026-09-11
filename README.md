@@ -36,8 +36,8 @@ The application integrates key Android animation and UI frameworks:
 <table align="center">
   <tr>
     <th align="center">1. Splash Screen</th>
-    <th align="center">2. Main Screen (Alarm Ringing)</th>
-    <th align="center">3. Dashboard &amp; Controls</th>
+    <th align="center">2. Splash Screen 2</th>
+    <th align="center">3. Main Screen (Alarm Ringing) &amp; Controls</th>
   </tr>
   <tr>
     <td align="center">
